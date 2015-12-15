@@ -15,7 +15,7 @@ from any slack channel just type `thel [your question]`. The Question will be sh
 
 **As the Wolframalpha API allows only 2000 API calls in a month. This can not be used directly. **
 
-[Tutorial will be added soon]
+**I wrote a tutorial on How to create this bot. Read [here](http://eulercoder.me/posts/How-to-create-Slack-Bot-using-wolframalpha-API/)**
 
 
 1. Go to your channel
